@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_button">#A261E3</color>
+    <color name="gradient_start">#0F172A</color>
+    <color name="gradient_center">#0F172A</color>
+    <color name="gradient_end">#0F172A</color>
+    <color name="bg_edit_text">#9FDDFC</color>
+    <color name="bg_addtask">#0F172A</color>
+    <color name="ic_launcher_background">#ECA7FF</color>
+    <color name="hint_color">#012986</color>
+    <color name="create">#01174A</color>
+
+</resources>
